@@ -1,0 +1,796 @@
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\appsettings.json
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.exe
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.deps.json
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.pdb
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Humanizer.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Common.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\DataContext.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Repository.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Service.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\DataContext.pdb
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Repository.pdb
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Service.pdb
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Common.pdb
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.dll
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\refint\Project.dll
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.pdb
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\שנה ב\C#\Project\Project\obj\Debug\net6.0\ref\Project.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\appsettings.json
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.exe
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.deps.json
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.pdb
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Humanizer.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Common.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\DataContext.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Repository.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Service.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\DataContext.pdb
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Service.pdb
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Common.pdb
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Repository.pdb
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.dll
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\refint\Project.dll
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.pdb
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+E:\שנה ב\C#\Project\Project\obj\Debug\net6.0\ref\Project.dll
+E:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\refint\Project.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Project.exe
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Project.deps.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Project.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Project.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Service.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\DataContext.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Service.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Project\obj\Debug\net6.0\ref\Project.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\appsettings.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.exe
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.deps.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Project.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Common.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\DataContext.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Service.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\DataContext.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Service.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Common.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\bin\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\refint\Project.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Project\obj\Debug\net6.0\ref\Project.dll
+D:\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\Project\bin\Debug\net6.0\appsettings.json
+D:\Project\Project\bin\Debug\net6.0\Project.exe
+D:\Project\Project\bin\Debug\net6.0\Project.deps.json
+D:\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\Project\Project\bin\Debug\net6.0\Project.dll
+D:\Project\Project\bin\Debug\net6.0\Project.pdb
+D:\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+D:\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+D:\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\Project\Project\bin\Debug\net6.0\Humanizer.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project\Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project\Project\bin\Debug\net6.0\Common.dll
+D:\Project\Project\bin\Debug\net6.0\DataContext.dll
+D:\Project\Project\bin\Debug\net6.0\Repository.dll
+D:\Project\Project\bin\Debug\net6.0\Service.dll
+D:\Project\Project\bin\Debug\net6.0\DataContext.pdb
+D:\Project\Project\bin\Debug\net6.0\Service.pdb
+D:\Project\Project\bin\Debug\net6.0\Common.pdb
+D:\Project\Project\bin\Debug\net6.0\Repository.pdb
+D:\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+D:\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+D:\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+D:\Project\Project\obj\Debug\net6.0\Project.dll
+D:\Project\Project\obj\Debug\net6.0\refint\Project.dll
+D:\Project\Project\obj\Debug\net6.0\Project.pdb
+D:\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\Project\Project\obj\Debug\net6.0\ref\Project.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Project.exe
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Project.deps.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Project.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Project.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Service.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\DataContext.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Service.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\refint\Project.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\obj\Debug\net6.0\ref\Project.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Project\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\appsettings.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Project.exe
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Project.deps.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Project.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Project.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\DataContext.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Service.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\DataContext.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Service.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Common.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\bin\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.csproj.CopyComplete
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\refint\Project.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\Project\obj\Debug\net6.0\ref\Project.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\appsettings.Development.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\appsettings.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Project.exe
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Project.deps.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Project.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Project.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\AutoMapper.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Azure.Core.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Humanizer.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Web.Http.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Common.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\DataContext.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Repository.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Service.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\DataContext.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Service.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Common.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\bin\Debug\net6.0\Repository.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cs
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Project.props
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\scopedcss\bundle\Project.styles.css
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.csproj.Up2Date
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\refint\Project.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Project\obj\Debug\net6.0\ref\Project.dll

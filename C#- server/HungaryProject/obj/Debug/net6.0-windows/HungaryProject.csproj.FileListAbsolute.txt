@@ -1,0 +1,152 @@
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.exe
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.deps.json
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.runtimeconfig.json
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.pdb
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Common.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\DataContext.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Repository.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Service.dll
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\DataContext.pdb
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Service.pdb
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Common.pdb
+D:\Project\HungaryProject\bin\Debug\net6.0-windows\Repository.pdb
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.csproj.AssemblyReference.cache
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.AssemblyInfoInputs.cache
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.AssemblyInfo.cs
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.csproj.CoreCompileInputs.cache
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.csproj.CopyComplete
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.dll
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\refint\HungaryProject.dll
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.pdb
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.genruntimeconfig.cache
+D:\Project\HungaryProject\obj\Debug\net6.0-windows\ref\HungaryProject.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.exe
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.deps.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.runtimeconfig.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\HungaryProject.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\System.Web.Http.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\DataContext.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Repository.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Service.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\DataContext.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Service.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Common.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\bin\Debug\net6.0-windows\Repository.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.csproj.AssemblyReference.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.AssemblyInfoInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.AssemblyInfo.cs
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.csproj.CoreCompileInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.csproj.CopyComplete
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\refint\HungaryProject.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\HungaryProject.genruntimeconfig.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\HungaryProject\obj\Debug\net6.0-windows\ref\HungaryProject.dll

@@ -1,0 +1,231 @@
+D:\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.exe
+D:\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.deps.json
+D:\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.runtimeconfig.json
+D:\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.pdb
+D:\Project\halgoritem2\bin\Debug\net6.0\AutoMapper.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Azure.Core.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Azure.Identity.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Common.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\DataContext.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Repository.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Service.dll
+D:\Project\halgoritem2\bin\Debug\net6.0\Common.pdb
+D:\Project\halgoritem2\bin\Debug\net6.0\DataContext.pdb
+D:\Project\halgoritem2\bin\Debug\net6.0\Service.pdb
+D:\Project\halgoritem2\bin\Debug\net6.0\Repository.pdb
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.AssemblyReference.cache
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.AssemblyInfoInputs.cache
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.AssemblyInfo.cs
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.CoreCompileInputs.cache
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.CopyComplete
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.dll
+D:\Project\halgoritem2\obj\Debug\net6.0\refint\halgoritem2.dll
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.pdb
+D:\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.genruntimeconfig.cache
+D:\Project\halgoritem2\obj\Debug\net6.0\ref\halgoritem2.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.exe
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.deps.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.runtimeconfig.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Common.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Service.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\DataContext.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Service.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.AssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.CopyComplete
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\refint\halgoritem2.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.genruntimeconfig.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\obj\Debug\net6.0\ref\halgoritem2.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\halgoritem2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.exe
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.deps.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.runtimeconfig.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\halgoritem2.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Common.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\DataContext.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Service.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Common.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\DataContext.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Service.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\bin\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.AssemblyReference.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.AssemblyInfoInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.AssemblyInfo.cs
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.CoreCompileInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.csproj.CopyComplete
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\refint\halgoritem2.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\halgoritem2.genruntimeconfig.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\halgoritem2\obj\Debug\net6.0\ref\halgoritem2.dll

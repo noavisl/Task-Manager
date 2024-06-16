@@ -1,0 +1,136 @@
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+D:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.deps.json
+D:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+D:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.dll
+D:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.pdb
+D:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\Repository.dll
+D:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\Repository.pdb
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.dll
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.pdb
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+D:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+E:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.deps.json
+E:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+E:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.dll
+E:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.pdb
+E:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\Repository.dll
+E:\שנה ב\C#\Project\DataContext\bin\Debug\net6.0\Repository.pdb
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.dll
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.pdb
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+E:\שנה ב\C#\Project\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+D:\Project\DataContext\bin\Debug\net6.0\DataContext.deps.json
+D:\Project\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+D:\Project\DataContext\bin\Debug\net6.0\DataContext.dll
+D:\Project\DataContext\bin\Debug\net6.0\DataContext.pdb
+D:\Project\DataContext\bin\Debug\net6.0\Repository.dll
+D:\Project\DataContext\bin\Debug\net6.0\Repository.pdb
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.dll
+D:\Project\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.pdb
+D:\Project\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+D:\Project\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\bin\Debug\net6.0\DataContext.deps.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\bin\Debug\net6.0\DataContext.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\bin\Debug\net6.0\DataContext.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\bin\Debug\net6.0\Repository.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\bin\Debug\net6.0\Repository.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataCont.586C3566.Up2Date
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataContext.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataContext.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\obj\Debug\net6.0\ref\DataContext.dll

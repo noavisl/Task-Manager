@@ -1,0 +1,96 @@
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.dll
+D:\שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.pdb
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.dll
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.pdb
+D:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.dll
+E:\שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.pdb
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.dll
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.pdb
+E:\שנה ב\C#\Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\שנה ב\c#\Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\מחשבים- שנה ב\C#\Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\Project\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Project\Repository\bin\Debug\net6.0\Repository.dll
+D:\Project\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Project\Repository\obj\Debug\net6.0\Repository.dll
+D:\Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Project\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\user\Pictures\אא כל התיקיות\תכנות\Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\noa\Desktop\C# ANGUAR\Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\bin\Debug\net6.0\Repository.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\bin\Debug\net6.0\Repository.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\Repository.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\Repository.pdb
+D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\Repository\obj\Debug\net6.0\ref\Repository.dll

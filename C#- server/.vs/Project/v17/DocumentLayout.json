@@ -1,0 +1,577 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE7634E-49BA-4ED9-9A5E-D37D1F2B8F75}|Service\\Service.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\service\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE7634E-49BA-4ED9-9A5E-D37D1F2B8F75}|Service\\Service.csproj|solutionrelative:service\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE7634E-49BA-4ED9-9A5E-D37D1F2B8F75}|Service\\Service.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\service\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE7634E-49BA-4ED9-9A5E-D37D1F2B8F75}|Service\\Service.csproj|solutionrelative:service\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\extentionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\extentionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\repositories\\vacationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\vacationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\repositories\\languagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\languagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\repositories\\languageforemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\languageforemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\entities\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\entities\\languageforemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\languageforemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA5EB8C0-B627-4CB1-9439-4669C85693A6}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\controllers\\vacationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\controllers\\vacationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\controllers\\languageforemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\controllers\\languageforemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\project\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1714E059-D1C9-41BF-8B72-A345C384DCE4}|Project\\Project.csproj|solutionrelative:project\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\common\\dto\\vacationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|solutionrelative:common\\dto\\vacationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\common\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|solutionrelative:common\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\common\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|solutionrelative:common\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\common\\dto\\languageforemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|solutionrelative:common\\dto\\languageforemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\common\\dto\\languagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|solutionrelative:common\\dto\\languagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\common\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|solutionrelative:common\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|d:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 task_manager\\taskmanager\\project\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9980F-0C7D-4716-AFD4-D8AAE24F8CE8}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Service\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Service\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Service\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Service\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IService.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Service\\Interface\\IService.cs",
+              "RelativeToolTip": "Service\\Interface\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtentionRepository.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\ExtentionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ExtentionRepository.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\ExtentionRepository.cs",
+              "RelativeToolTip": "Repository\\ExtentionRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\EmailController.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Project\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Interface\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IContext.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Interface\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interface\\IContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LanguageRepository.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\LanguageRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\LanguageRepository.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\LanguageRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\LanguageRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\TaskRepository.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Project\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VacationRepository.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\VacationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\VacationRepository.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\VacationRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\VacationRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LanguageForEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\LanguageForEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\LanguageForEmployeeRepository.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\LanguageForEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\LanguageForEmployeeRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Repository\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Task.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\Task.cs",
+              "RelativeToolTip": "Repository\\Entities\\Task.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LanguageForEmployee.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\LanguageForEmployee.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\LanguageForEmployee.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\LanguageForEmployee.cs",
+              "RelativeToolTip": "Repository\\Entities\\LanguageForEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Language.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\Language.cs",
+              "RelativeToolTip": "Repository\\Entities\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:28.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T20:26:28.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vacation.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\Vacation.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Vacation.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\Vacation.cs",
+              "RelativeToolTip": "Repository\\Entities\\Vacation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Project\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VacationController.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\VacationController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\VacationController.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\VacationController.cs",
+              "RelativeToolTip": "Project\\Controllers\\VacationController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LanguageController.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\LanguageController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\LanguageController.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\LanguageController.cs",
+              "RelativeToolTip": "Project\\Controllers\\LanguageController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwBUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Employee.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Repository\\Entities\\Employee.cs",
+              "RelativeToolTip": "Repository\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LanguageForEmployeeController.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\LanguageForEmployeeController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\LanguageForEmployeeController.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\LanguageForEmployeeController.cs",
+              "RelativeToolTip": "Project\\Controllers\\LanguageForEmployeeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Project\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Project\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Project\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Common\\Dto\\UserDto.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\TaskDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\TaskDto.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\TaskDto.cs",
+              "RelativeToolTip": "Common\\Dto\\TaskDto.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LanguageDto.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\LanguageDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\LanguageDto.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\LanguageDto.cs",
+              "RelativeToolTip": "Common\\Dto\\LanguageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Common\\Class1.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Class1.cs",
+              "RelativeToolTip": "Common\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\EmployeeDto.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "Common\\Dto\\EmployeeDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VacationDto.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\VacationDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\VacationDto.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\VacationDto.cs",
+              "RelativeToolTip": "Common\\Dto\\VacationDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LanguageForEmployeeDto.cs",
+              "DocumentMoniker": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\LanguageForEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Common\\Dto\\LanguageForEmployeeDto.cs",
+              "ToolTip": "D:\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD- \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 TASK_MANAGER\\TaskManager\\Project\\Common\\Dto\\LanguageForEmployeeDto.cs",
+              "RelativeToolTip": "Common\\Dto\\LanguageForEmployeeDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:26:29.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
