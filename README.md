@@ -65,34 +65,34 @@ This section provides detailed information about each component of the Task Mana
 
 
   **Home Page**: General homepage where users can sign up, log in, and find general information about the project/system.
-  - ![Home Page](Description%20pictures/HomePage.png)
+ ![Home Page](Description%20pictures/HomePage.png)
 
   **Sign In Page**: Login page for accessing the Task Manager.
-- ![Sign In Page](Description%20pictures/SignIn.png)
+ ![Sign In Page](Description%20pictures/SignIn.png)
 
   **Sign Up Page**: Registration page for creating a new account.
-- ![Sign Up Page](Description%20pictures/SignUp.png)
+ ![Sign Up Page](Description%20pictures/SignUp.png)
 
   **About Us Page**: Provides information about the project and the team behind it.
-- ![About Us](Description%20pictures/AboutUs.png)
+ ![About Us](Description%20pictures/AboutUs.png)
 
   **Manager Home Page 1**: Shows tasks assigned to managers and buttons to add new tasks and employees.
-- ![Manager Home Page 1](Description%20pictures/HomePageManager1.png)
+ ![Manager Home Page 1](Description%20pictures/HomePageManager1.png)
 
   **Manager Home Page 2**: Additional view of the manager's homepage with tasks and management options.
-- ![Manager Home Page 2](Description%20pictures/HomePageManager2.png)
+ ![Manager Home Page 2](Description%20pictures/HomePageManager2.png)
 
   **Add Employee Page**: Allows the team leader to add a new employee to the system.
-- ![Add Employee](Description%20pictures/AddEmployee.png)
+ ![Add Employee](Description%20pictures/AddEmployee.png)
 
   **Add Task Page**: Interface for creating new tasks, specifying details like title, description, and priority.
-- ![Add Task](Description%20pictures/AddTask.png)
+ ![Add Task](Description%20pictures/AddTask.png)
 
   **Employee Home Page**: Displays tasks assigned to employees and options to add vacation days.
-- ![Employee Home Page](Description%20pictures/HomePageEmployee.png)
+ ![Employee Home Page](Description%20pictures/HomePageEmployee.png)
 
   **Add Vacation Page**: Allows employees to add vacation dates, which the algorithm considers when assigning tasks.
-- ![Add Vacation](Description%20pictures/AddVacation.png)
+ ![Add Vacation](Description%20pictures/AddVacation.png)
 
 
 
