@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2WaDCsrxDnCaXuZNdHrOWttRDMqQ48Rknvrj9yzCYqWu0SIfdRBCReiafA67a/IW8OcMaGN+ITkIAmD2MrlpkA==",
+  "dgSpecHash": "r4RvGYXsMnEsSgGyW6+8BpsnEp8k7PxLBOBSp9js3pQERYODwi0gxMuDDttmCoTn7YGM95/A37SO7j0kAJ4/Hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\Project\\Project.csproj",
+  "projectFilePath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\Project\\Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\noa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qqCuhgjGEf/i+MgA2+pOZQmXWCzdkC17A0o3lLc7nWqzhM9MLsu9EWrRc2s/N/pBJ1VV/k2Up6IF09Z9B2o6fQ==",
+  "dgSpecHash": "8V1dApDT/Urq7BcwohsIja7HmOl2kDGfsPV1v6J0/MV9OQSGFVOc8WlybzsB1qItUFWRNDtZaE45IbDRP1ifzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\Service\\Service.csproj",
+  "projectFilePath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\noa\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",

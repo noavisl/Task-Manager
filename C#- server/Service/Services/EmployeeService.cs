@@ -1,19 +1,8 @@
 ﻿using AutoMapper;
 using Common.Dto;
-using Microsoft.AspNetCore.Http;
 using Repository.Entities;
 using Repository.Interface;
 using Service.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-//using Microsoft.AspNetCore.Mvc;
-using System.Web.Http;
-using System.Net.Mail;
-using System.Net;
 
 namespace Service.Servises
 {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rhsO9HCqIRHrgeWy12Go4VkIsVlFPpLRqsIrq4LM1wOemJHKxwb9/jFq/GguY2xBr7E1mVsFhZDtllVRQAAZsA==",
+  "dgSpecHash": "wLsyYjRDPiBwJWfMVkUP+86N+SXh+Hb7x2zB9dTy695EqlZvurHJDof+G0unyCqJea5uBTcFaNMgPjn/ppZBUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\DataContext\\DataContext.csproj",
+  "projectFilePath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\DataContext\\DataContext.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\noa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

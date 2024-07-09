@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataContext
-build_property.ProjectDir = D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\Project\DataContext\
+build_property.ProjectDir = D:\מחשבים- שנה ב\פרויקט TASK_MANAGER\TaskManager\C#- server\DataContext\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

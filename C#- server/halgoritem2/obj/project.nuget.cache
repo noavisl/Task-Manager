@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TQqk9xY1KG3KFlkkGYVap/b9LpElpfcZWV+2iI+4yLt1wOLR60FX69lMZw0WtQSbD9Mj5bGJzzRh4GijEWO+Lg==",
+  "dgSpecHash": "JTWVD6s9CEMS8hyvHHv7rmLtRZQH2CDkhaMaCjSD+jdXQ7tRXMJSl+0aJ/BHlLHuVHa7HFYUiTSbfHzPpBUUmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\halgoritem2\\halgoritem2.csproj",
+  "projectFilePath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\halgoritem2\\halgoritem2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\noa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

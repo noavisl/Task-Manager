@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YzfRjLweNbTJyctGFXu0j4EJlVPktBlPmKu19oOcgQZQlAqeUP6fTjNYGfYRfBi1CshjO9L6NlW2XW35yv2rvQ==",
+  "dgSpecHash": "HSwI5uIkF1O7/eBNgNwioGSuz2F9YW2/RtR05FdOt+3Axa78bK980GP/Nh8ukoL0M7B1zjfNbM7yYgP9t1YcaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\Common\\Common.csproj",
+  "projectFilePath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noa\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
     "C:\\Users\\noa\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.3.0\\microsoft.aspnet.webapi.core.5.3.0.nupkg.sha512",

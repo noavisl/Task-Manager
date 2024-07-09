@@ -3441,11 +3441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\Project\\Project.csproj",
+      "projectUniqueName": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\Project\\Project.csproj",
+      "projectPath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\noa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\Project\\obj\\",
+      "outputPath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3466,11 +3466,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\DataContext\\DataContext.csproj": {
-              "projectPath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\DataContext\\DataContext.csproj"
+            "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\DataContext\\DataContext.csproj": {
+              "projectPath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\DataContext\\DataContext.csproj"
             },
-            "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\noa\\Desktop\\C# ANGUAR\\Project\\Service\\Service.csproj"
+            "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\Service\\Service.csproj": {
+              "projectPath": "D:\\מחשבים- שנה ב\\פרויקט TASK_MANAGER\\TaskManager\\C#- server\\Service\\Service.csproj"
             }
           }
         }
@@ -3479,6 +3479,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3533,7 +3538,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   },
