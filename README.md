@@ -63,7 +63,7 @@ This section provides detailed information about each component of the Task Mana
 
 ### Home Page
 General homepage where users can sign up, log in, and find general information about the system.
-![Home Page](Description%20pictures/HomePage.png)
+![Home Page](Description%20pictures/HomePageee.png)
 
 ### Sign In Page
 Login page for accessing the Task Manager.
@@ -75,7 +75,7 @@ Registration page for creating a new account.
 
 ### About Us Page
 Provides information about the project and the team behind it.
-![About Us](Description%20pictures/AboutUs.png)
+![About Us](Description%20pictures/AboutUsss.png)
 
 ### Manager Home Page
 Shows tasks assigned to managers and buttons to add new tasks and employees.
