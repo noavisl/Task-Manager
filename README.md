@@ -62,7 +62,7 @@ Once the application is running, open your browser and go to `http://localhost:4
 This section provides detailed information about each component of the Task Manager project:
 
 ### Home Page
-General homepage where users can sign up, log in, and find general information about the project/system.
+General homepage where users can sign up, log in, and find general information about the system.
 ![Home Page](Description%20pictures/HomePage.png)
 
 ### Sign In Page
